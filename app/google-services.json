@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "907927210403",
+    "firebase_url": "https://lightsy-89e5c.firebaseio.com",
+    "project_id": "lightsy-89e5c",
+    "storage_bucket": "lightsy-89e5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907927210403:android:7badc3ddd5d9645a",
+        "android_client_info": {
+          "package_name": "np.com.manishtuladhar.lightsy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907927210403-crc3ikm8btkk19ij3dpbofru6jnl6prv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "np.com.manishtuladhar.lightsy",
+            "certificate_hash": "cb89272a06a391357caa38f74c72dddf8c991d8c"
+          }
+        },
+        {
+          "client_id": "907927210403-lupd9eq3q90qhraj4k5blfgrbf800307.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "np.com.manishtuladhar.lightsy",
+            "certificate_hash": "38bf46f5927fbe373c3a8d07c9f25c9bb64f2f30"
+          }
+        },
+        {
+          "client_id": "907927210403-ba55k23r08241gvs8g38bcj103km3m7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBobIi47CAGcR3Ch5OBqtJsW3pwfGV1220"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907927210403-ba55k23r08241gvs8g38bcj103km3m7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
