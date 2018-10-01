@@ -39,7 +39,7 @@ public class PhotoFragment extends Fragment{
 
                 if(((ShareActivity)getActivity()).getCurrentTabNumber() == PHOTO_FRAGMENT_NUM)
                 {
-                    if(((ShareActivity) getActivity()).checkPermission(Permissions.CAMERA_PERMISSIONS[0]))
+                    if(((ShareActivity) getActivity()).checkPermissions(Permissions.CAMERA_PERMISSIONS[0]))
                     {
                         Log.d(TAG, "onClick: starting camera");
                         Intent cameraIntent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
